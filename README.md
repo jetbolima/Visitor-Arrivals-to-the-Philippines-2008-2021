@@ -8,6 +8,6 @@ Data for this project was taken from a [Department of Tourism dataset](https://d
 ### Some Insights
 1. Korea is the country with the largest portion of the total arrivals from 2008-2021.
 2. The drop of growth of arrivals from Taiwan in 2013 might have been caused by the [Guang Da Xing No. 28 incident](https://en.wikipedia.org/wiki/Guang_Da_Xing_No._28_incident) on May of that year.
-3. There is a steady increase of arrivals from China around 2015 to 2020.
+3. There is a steady and significant increase of arrivals from China around 2015 to 2020.
 4. There is a rise in arrivals for overseas Filipinos for the months of March (which might be caused by graduations), July, and December (with Christmas being the likely reason). Many overseas Filipinos also came back during the early months of COVID.
 5. The lowest months of arrival from USA are August and September.
